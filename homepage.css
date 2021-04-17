@@ -1,0 +1,75 @@
+/*hello*/
+.grid-container {
+    display: grid;
+    width: 10%;
+}
+.image1 {
+    width: 100%;
+}
+.form1 {
+    text-align: center;
+}
+.image2 {
+    width: 100%;
+}
+.form2 {
+    text-align: center;
+}
+.form3 {
+    text-align: center;
+}
+.image4 {
+    width: 90%;
+    height: 90%;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.form4 {
+    text-align: center;
+}
+.image5 {
+    width: 90%;
+    margin-left: 5%;
+}
+.form5 {
+    text-align: center;
+}
+.textpoggers {
+    width: 90%;
+    height: 20%;
+    float: right;
+    text-align: center;
+}
+.txtpog {
+    font-size: 200%;
+}
+.redbtn {
+    background: url(background3.jpg);
+    color: white;
+    border-style: none;
+    border-radius: 16px;
+    font-size: 200%;
+}
+.btnlink1 {
+    border-style: none;
+    background-color: white;
+}
+.btnlink2 {
+    border-style: none;
+    background-color: white;
+}
+.btnlink3 {
+    border-style: none;
+    background-color: white;
+}
+.btnlink4 {
+    border-style: none;
+    background-color: white;
+}
+.btnlink5 {
+    border-style: none;
+    background-color: white;
+}
+.adtesting {
+    width: 50%;
+}
