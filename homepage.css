@@ -1,0 +1,95 @@
+/*hello*/
+body{
+    background: url("background3.jpg");
+}
+.grid-container {
+    display: grid;
+    width: 100vh;
+    grid-gap: 16px;
+    padding: 16px;
+    grid-auto-flow: column;
+    grid-auto-columns: minmax(160px,1fr);
+    margin-left: auto;
+    margin-right: auto;
+}
+.image1 {
+    width: 100%;
+}
+.form1 {
+    text-align: center;
+}
+.image2 {
+    width: 100%;
+}
+.form2 {
+    text-align: center;
+}
+.form3 {
+    text-align: center;
+}
+.image4 {
+    width: 96%;
+    height: 90%;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.form4 {
+    text-align: center;
+}
+.image5 {
+    width: 100%;
+    margin-left: 5%;
+}
+.form5 {
+    text-align: center;
+}
+.textpoggers {
+    width: 100%;
+    height: 20%;
+    float: right;
+    text-align: center;
+    margin-bottom: 10%;
+}
+.txtpog {
+    font-family: Helvetica;
+    font-size: 400%;
+    color: whitesmoke;
+}
+.redbtn {
+    background: url(background3.jpg);
+    color: white;
+    border-style: none;
+    border-radius: 16px;
+    font-size: 200%;
+}
+.btnlink1 {
+    border-style: none;
+    background-color: transparent;
+    color: whitesmoke;
+}
+.btnlink2 {
+    border-style: none;
+    background-color: transparent;
+    color: whitesmoke;
+}
+.btnlink3 {
+    border-style: none;
+    background-color: transparent;
+    color: whitesmoke;
+}
+.btnlink4 {
+    border-style: none;
+    background-color: transparent;
+    color: whitesmoke;
+}
+.btnlink5 {
+    border-style: none;
+    background-color: transparent;
+    color: whitesmoke;
+}
+.adtesting {
+    width: 50%;
+}
+.image3 {
+    width: 100%;
+}
